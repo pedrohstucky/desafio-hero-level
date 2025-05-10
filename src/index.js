@@ -1,6 +1,6 @@
 const prompt = require('prompt-sync')()
 
-let name = prompt("Digite o nome do Herói?: ")
+let name = prompt("Digite o nome do Herói: ")
 let xp = parseInt(prompt("Digite a quantidade de XP do Herói: "))
 let nivel = ""
 
