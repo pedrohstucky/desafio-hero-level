@@ -31,4 +31,4 @@ switch (true) {
         break
 }
 
-console.log(`Ö Herói de nome ${name} está no nível ${nivel}.`)
+console.log(`O Herói de nome ${name} está no nível ${nivel}.`)
