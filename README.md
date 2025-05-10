@@ -35,3 +35,4 @@ npm install prompt-sync
 ```bash
 node src/index.js
 ```
+Code with ☕️ by Pedro H. Stucky
